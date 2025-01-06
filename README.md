@@ -42,14 +42,19 @@
 -------------------------------------------------------------------------
 -**TO CREATE TABLE**
  - ![alt text](image-1.png)
- - HERE KISHORE IS THE TABLE-NAME
+ - HERE *KISHORE* IS THE TABLE-NAME
 
 -**TO RENAME TABLE NAME**
  - ![alt text](image-2.png)
- - KISHORE IS THE OLD NAME CUSTOMERDATA IS A NEW NAME
+ - *KISHORE* IS THE OLD NAME *CUSTOMERDATA* IS A NEW NAME
 
 -**TO INSERT TABLE DATA**
  - ![alt text](image-3.png)
+ - HERE WE CAN LEAVE SOME COLUMNS WHEN IT IS NEEDED
+
+ -**WE HAVE ANOTHER WAY TOO**
+ -![alt text](image-5.png)
+ - BUT HERE WE NEED TO GIVE VALUES TO ALL THE COLUMNS THAT EXISTS IN THE TABLE
 
 -**TO ALTER TABLE DATA**
  - ![alt text](image-4.png)
