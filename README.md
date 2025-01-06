@@ -39,3 +39,18 @@
 **DRL -> WORKS ON RETRIVEL OF DATA** <br>
 **TCL -> WORKS ON TRANSACTION CONTROL** <br>
 **DCL -> WORKS ON CONTROL OF DATA** <br>
+-------------------------------------------------------------------------
+-**TO CREATE TABLE**
+ - ![alt text](image-1.png)
+ - HERE KISHORE IS THE TABLE-NAME
+
+-**TO RENAME TABLE NAME**
+ - ![alt text](image-2.png)
+ - KISHORE IS THE OLD NAME CUSTOMERDATA IS A NEW NAME
+
+-**TO INSERT TABLE DATA**
+ - ![alt text](image-3.png)
+
+-**TO ALTER TABLE DATA**
+ - ![alt text](image-4.png)
+ - I HAVE GIVEN SIZE FOR EMAIL AS 20 NOW I NEED TO MODIFY 50 
